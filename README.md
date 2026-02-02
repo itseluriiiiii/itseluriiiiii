@@ -60,4 +60,3 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itseluriiiiii&show_icons=true&locale=en&layout=compact" alt="itseluriiiiii" /></p>
