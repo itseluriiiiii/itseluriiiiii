@@ -2,7 +2,7 @@
 
 I'm Arnav Eluri, a computer science undergraduate in Bengaluru, India. I build things that work not just models that look good in a notebook. Sometimes that’s machine learning. Sometimes it’s a full-stack app. Sometimes it’s rewriting code because it can be cleaner. <br>
 
-#### things i've built <br>
+#### things I've built <br>
 
 - **AidGen**: Disaster guidance app using RAG + a local LLM. Provides fast, actionable instructions during emergencies. <br>
 - **Meal-4-All**: AI-powered meal planning from grocery bills. <br>
