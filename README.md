@@ -16,7 +16,7 @@ I like building *&* I like figuring things out.
 🌐 [Portfolio](https://arnavsportfolio.vercel.app/) <br> 🌐 [LinkedIn](https://www.linkedin.com/in/arnav-eluri/)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
+  <img src="arnav-banner.png" width="100%"/>
 </p>
 
 ---
