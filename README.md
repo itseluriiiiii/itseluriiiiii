@@ -1,6 +1,6 @@
 # hello world ;)
 
-I'm Arnav Eluri, a computer science undergraduate in Bengaluru, India. I build things that work not just models that look good in a notebook. Sometimes that’s machine learning. Sometimes it’s a full-stack app. Sometimes it’s rewriting code because it can be cleaner. <br>
+Hi! I am Arnav Eluri. I am a Computer Science student from Bengaluru, India. I really enjoy creating solutions that actually solve some problem by using machine learning, research or full-stack programming. My interests lie in hacking stuff up, figuring out how it works, and making it better, simpler, and faster. <br>
 
 <p align="center">
   <img src="arnav-banner.png" width="100%"/>
