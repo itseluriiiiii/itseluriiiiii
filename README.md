@@ -2,6 +2,10 @@
 
 I'm Arnav Eluri, a computer science undergraduate in Bengaluru, India. I build things that work not just models that look good in a notebook. Sometimes that’s machine learning. Sometimes it’s a full-stack app. Sometimes it’s rewriting code because it can be cleaner. <br>
 
+<p align="center">
+  <img src="arnav-banner.png" width="100%"/>
+</p>
+
 #### things I've built <br>
 
 - **AidGen**: Disaster guidance app using RAG + a local LLM. Provides fast, actionable instructions during emergencies. <br>
@@ -14,10 +18,6 @@ I like building *&* I like figuring things out.
 ## connect
 
 🌐 [Portfolio](https://arnavsportfolio.vercel.app/) <br> 🌐 [LinkedIn](https://www.linkedin.com/in/arnav-eluri/)
-
-<p align="center">
-  <img src="arnav-banner.png" width="100%"/>
-</p>
 
 ---
 <p align="center">
