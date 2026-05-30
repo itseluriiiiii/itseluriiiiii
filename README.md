@@ -53,9 +53,7 @@ Current Focus:
 
 ## Technical Stack
 
-## ⚙️ Tech Stack
-
-### 👨‍💻 Languages
+### Languages
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,ts,java,cpp,sql" />
@@ -63,7 +61,7 @@ Current Focus:
 
 ---
 
-### 🤖 Generative AI
+### Generative AI
 
 <p align="left">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
@@ -76,7 +74,7 @@ Current Focus:
 
 ---
 
-### 🧠 AI / Machine Learning
+### AI / Machine Learning
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
@@ -86,7 +84,7 @@ Current Focus:
 
 ---
 
-### ⚡ Backend
+### Backend
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,postgres" />
@@ -96,7 +94,7 @@ Current Focus:
 
 ---
 
-### 🎨 Frontend
+### Frontend
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
@@ -104,7 +102,7 @@ Current Focus:
 
 ---
 
-### 🔧 DevOps & Tools
+### DevOps & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,postman" />
@@ -112,14 +110,14 @@ Current Focus:
 
 ---
 
-### 🚀 Currently Exploring
+### Currently Exploring
 
 `LangGraph` • `Agentic AI` • `MCP` • `LLM Evaluation` • `AI Engineering`
 
 ---
 
 
-## 🎯 Currently Learning
+## Currently Learning
 
 `LangGraph` • `Agentic AI` • `MCP` • `LLM Evaluation` • `Distributed Systems`
 
@@ -127,7 +125,7 @@ Current Focus:
 
 <div align="center">
 
-### 🚀 Research • Engineer • Ship
+### Research • Engineer • Ship
 
 *Crafting solutions, not just code.*
 
